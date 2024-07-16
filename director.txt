@@ -1,0 +1,10 @@
+project_directory/
+  ├── public/
+  │   ├── css/
+  │   │   └── style.css
+  │   └── uploads/save.txt
+  ├── views/
+  │   └── index.ejs
+  ├── app.js
+  ├── package.json
+  └── package-lock.json
